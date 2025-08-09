@@ -1,0 +1,52 @@
+{
+  "name": "ai-enhanced-equitable-urban-mobility-finance-platform",
+  "version": "1.0.0",
+  "description": "AI-Enhanced Equitable Urban Mobility Finance Platform for UK AI Agent Hackathon Ep2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
+    "recharts": "^2.5.0",
+    "lucide-react": "^0.263.1",
+    "clsx": "^1.2.1",
+    "tailwind-merge": "^1.14.0",
+    "@stellar/stellar-sdk": "^11.0.0",
+    "soroban-client": "^0.9.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.38.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.3.4",
+    "postcss": "^8.4.24",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^4.9.3",
+    "vite": "^4.2.0",
+    "vitest": "^0.29.8"
+  },
+  "keywords": [
+    "stellar",
+    "soroban",
+    "smart-contracts",
+    "ai",
+    "equitable-finance",
+    "urban-mobility",
+    "web3",
+    "blockchain"
+  ],
+  "author": "UK AI Agent Hackathon Ep2 Team",
+  "license": "MIT"
+}
